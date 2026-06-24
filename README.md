@@ -1,13 +1,3 @@
-<h1 align="center">Adrián Rijo</h1>
-
-<p align="center">
-  Estudiante de 2º de Ingeniería Informática — enfocado en inteligencia artificial y ciberseguridad
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rihoo0&style=flat-square&color=blueviolet" alt="profile views"/>
-</p>
-
 
 ## funciono con cafeína, depuro con fe
 <p>
