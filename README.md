@@ -35,9 +35,9 @@ Me muevo entre el código de bajo nivel y los datos. Ahora mismo estoy construye
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
-## 📊 Estadísticas
+📊 Estadísticas
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rihoo0&show_icons=true&theme=radical&hide_border=true" alt="stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rihoo0&layout=compact&theme=radical&hide_border=true" alt="top langs" width="38%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rihoo0&show_icons=true&theme=dark&hide_border=true" alt="stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rihoo0&layout=compact&theme=dark&hide_border=true" alt="top langs" width="38%"/>
 </p>
