@@ -1,51 +1,59 @@
+<!-- estudiante de ingeniería informática -->
+
 # Adrián Rijo
 
-**Backend Developer** | Open to Work
+### aka rihoo — futuro ingeniero informático
 
-*Ingeniería con buen gusto.*
+```bash
+adrian@rihoo:~$ whoami
+Adrián Rijo — estudiante de 2º de Ingeniería Informática
 
----
+adrian@rihoo:~$ cat sobre-mi.txt
+2º curso de Ingeniería Informática. Me muevo entre el código de
+bajo nivel y los datos, y ahora mismo me estoy enfocando en
+aprender inteligencia artificial y ciberseguridad construyendo
+mis propios proyectos.
 
-## 👋 Sobre mí
+adrian@rihoo:~$ ls intereses/
+inteligencia_artificial/  ciberseguridad/
 
-Soy estudiante de **Ingeniería Informática** en la ULPGC (España), apasionado por el desarrollo backend, ciberseguridad y la construcción de soluciones que funcionan bien tanto por dentro como por fuera.
+adrian@rihoo:~$ ▮
+```
 
-Trato cada proyecto como una oportunidad de crear algo que destaque, fusionando **ingeniería sólida** con **diseño consciente**. Actualmente profundizando en algoritmos, estructuras de datos y bases de datos, buscando aplicar estos conocimientos en proyectos del mundo real.
+[![Contacto](https://img.shields.io/badge/Contacto-007BFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tucorreo@ejemplo.com)
+[![Ver proyectos](https://img.shields.io/badge/Ver%20proyectos-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rihoo?tab=repositories)
 
----
-
-## 🛠️ Stack Tecnológico
-
-### Lenguajes
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Bases de Datos & Herramientas
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+[![GitHub](https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rihoo)
+[![Instagram](https://img.shields.io/badge/-E4405F?style=flat-square&logo=instagram&logoColor=white)](#)
+[![Discord](https://img.shields.io/badge/-5865F2?style=flat-square&logo=discord&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white)](#)
 
 ---
 
-## 🎯 Intereses
+<!-- stack -->
 
-- 🔐 **Ciberseguridad**: Construcción de sistemas seguros y resilientes
-- 📊 **Algoritmos & Estructuras de Datos**: Optimización y eficiencia
-- 💾 **Bases de Datos**: Diseño y gestión de datos
-- 🏗️ **Arquitectura Backend**: Sistemas escalables y mantenibles
+## Tecnologías
 
----
+Lenguajes y herramientas con los que he trabajado a lo largo de la carrera.
 
-## 📫 Webs
+**Lenguajes**
 
-- 💼 **Portfolio**: [adriraw.netlify.app](https://adriraw.netlify.app)
+![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-555555?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-555555?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-555555?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-555555?style=flat-square&logo=r&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-555555?style=flat-square)
 
----
+**Web**
 
-*"La mejor código es aquel que funciona bien hoy y es fácil de mantener mañana."*
+![HTML](https://img.shields.io/badge/HTML-555555?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-555555?style=flat-square&logo=css3&logoColor=white)
+
+**Datos**
+
+![SQL](https://img.shields.io/badge/SQL-555555?style=flat-square&logo=postgresql&logoColor=white)
+
+**Hardware**
+
+![Arduino](https://img.shields.io/badge/Arduino-555555?style=flat-square&logo=arduino&logoColor=white)
