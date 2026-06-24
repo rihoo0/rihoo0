@@ -8,12 +8,8 @@
   <img src="https://komarev.com/ghpvc/?username=rihoo0&style=flat-square&color=blueviolet" alt="profile views"/>
 </p>
 
----
 
-## sobre mi
-Funciono con cafeína, depuro con fe
-## stack
-
+## funciono con cafeína, depuro con fe
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
