@@ -35,14 +35,6 @@ Me muevo entre el código de bajo nivel y los datos. Ahora mismo estoy construye
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
-## 🚀 Proyectos destacados
-
-| Proyecto | Stack | Descripción |
-|---|---|---|
-| [GestorFianzas](https://github.com/rihoo0/GestorFianzas) | Java | Gestión de fianzas |
-| [convertidores](https://github.com/rihoo0/convertidores) | Python | Conversores varios |
-| [mecanografia](https://github.com/rihoo0/mecanografia) | TypeScript | Práctica de mecanografía |
-
 ## 📊 Estadísticas
 
 <p>
